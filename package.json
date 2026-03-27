@@ -1,0 +1,1 @@
+{\n  "name": "openclaw-marketplace",\n  "version": "1.0.0",\n  "description": "A marketplace built on OpenClaw.",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'No tests specified' && exit 0"\n  },\n  "author": "lyw882488",\n  "license": "ISC"\n}
